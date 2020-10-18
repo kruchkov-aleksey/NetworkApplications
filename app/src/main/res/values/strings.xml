@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NetworkApplicationKotlin</string>
+    <string name="column_name_1">version</string>
+    <string name="column_name_2">text</string>
+    <string name="column_name_3">upvotes</string>
+    <string name="column_name_4">type</string>
+    <string name="dialog_message">Вы зашли в первый раз</string>
+    <string name="ok">Ok</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
